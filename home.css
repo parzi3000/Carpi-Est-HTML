@@ -8,9 +8,6 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-navlink {
-  text-decoration: none;
-}
 .home-main {
   flex: 0 0 auto;
   width: 100%;
@@ -103,9 +100,6 @@
   .home-container1 {
     flex-direction: column;
   }
-  .home-text05 {
-    font-size: 30px;
-  }
   .home-link {
     font-family: Arial;
   }
@@ -138,12 +132,10 @@
     margin-right: 0px;
   }
   .home-heading {
-    width: auto;
-    font-size: 12vw;
+    font-size: 30px;
   }
   .home-text05 {
-    font-size: 6vw;
-    margin-bottom: var(--dl-space-space-twounits);
+    font-size: 20px;
   }
   .home-link {
     font-size: 0;
